@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32120.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTransit", "DataTransit\DataTransit.csproj", "{F4608B97-8EF2-4E5C-AB3F-00E1BA7BF2AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4608B97-8EF2-4E5C-AB3F-00E1BA7BF2AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4608B97-8EF2-4E5C-AB3F-00E1BA7BF2AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4608B97-8EF2-4E5C-AB3F-00E1BA7BF2AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4608B97-8EF2-4E5C-AB3F-00E1BA7BF2AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {671A1107-11F7-4F60-933F-B9387FB6D795}
+	EndGlobalSection
+EndGlobal
